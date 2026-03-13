@@ -1,1 +1,1 @@
-{"buildCommand": "echo static", "outputDirectory": "."}
+{"buildCommand": "echo done", "outputDirectory": "public"}
